@@ -77,9 +77,9 @@ export default function Footer(props) {
             className={aClasses}
             target="_blank"
           >
-            Creative Tim
+            Tech Trends
           </a>{" "}
-          for a better web.
+          for a better Experience.
         </div>
       </div>
     </footer>
